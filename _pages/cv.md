@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * NanJing University
-* 
+* ∏∏
 
 Work experience
 ======
