@@ -12,8 +12,7 @@ redirect_from:
 Education
 ======
 * NanJing University
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* 
 
 Work experience
 ======
