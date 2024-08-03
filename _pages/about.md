@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "Haoliang Cheng"
 author_profile: true
 redirect_from: 
   - /about/
